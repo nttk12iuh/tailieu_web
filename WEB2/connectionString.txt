@@ -1,0 +1,5 @@
+<connectionString>
+<add name="KitchenContext"
+connectionString="Data Source=HONGMINH;Initial Catalog=KitchenDB;User Id=sa;Password=123456"
+providerName="System.Data.SqlClient"/>
+</connectionString>
